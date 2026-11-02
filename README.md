@@ -13,7 +13,7 @@ Electrical engineer moving into **AI operations & automation**: building workflo
 - **Trust & Safety / Policy Operations** at Teleperformance (Majorel) Berlin: assessing complex edge cases against evolving policies, documentation, cross-team coordination
 - **Electronics Engineering Intern** at TÜBİTAK UZAY (Space Technologies Research Institute): lab testing, measurement data, PCB design
 - **Technical Support Engineer Intern** at Orion Innovation: Excel dashboards, KPI tracking, technical documentation
-- **Co-founder, brand & social media** at Yeni Vatan Almanya, an early-stage media startup in Berlin
+- **Co-founder, brand & social media** at Yeni Vatan Almanya, an early-stage consultation startup in Berlin
 - B.Sc. Electrical & Electronics Engineering, Bahçeşehir University · Graduate coursework in Computational Sciences, Freie Universität Berlin
 
 ## Tools
